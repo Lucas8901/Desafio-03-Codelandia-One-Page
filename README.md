@@ -8,7 +8,7 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Desafio-02-Codelandia-Jordan-Shoes/blob/main/gif/bandicam%202023-01-16%2010-54-36-373.gif"/>
+  <img src="https://github.com/Lucas8901/Desafio-03-Codelandia-One-Page/blob/main/gif/bandicam%202023-01-17%2018-52-58-711.gif"/>
   </div>
 
 
