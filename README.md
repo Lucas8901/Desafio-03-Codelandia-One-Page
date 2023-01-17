@@ -14,7 +14,7 @@
 
 
 <br>
-<h2>Teste em seu dispositivo 📱<br> <p> https://desafio-02-codelandia-jordan-shoes.vercel.app/</p> </h2>
+<h2>Teste em seu dispositivo 📱<br> <p>https://desafio-03-codelandia-one-page.vercel.app/</p> </h2>
 <br>
 
 <h2 align="left"> Tecnologias utilizadas no projeto 👨‍💻</h2>
