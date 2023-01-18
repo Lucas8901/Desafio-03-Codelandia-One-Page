@@ -1,4 +1,4 @@
-<h1 align="center">Desafio 03 - Comunidade Codelândia: Landing Page One Page 🎁 </h1>
+<h1 align="center">Desafio 03-Comunidade Codelândia: Landing Page One Page🎁 </h1>
 <br>
 
 <h2 align="left">Descrição do projeto:</h2> <br>
